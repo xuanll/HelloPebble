@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "xuanll",
+    "longName": "HelloPebble",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "HelloPebble",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "b96c9be2-f52b-4c18-9657-19a3a331df61",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
